@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "app"
+version = "0.1.0"
+description = ""
+authors = ["Monika"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+numpy = "^1.23.4"
+opencv-python = "^4.6.0.66"
+matplotlib = "^3.6.1"
+PyQt6 = "^6.4.0"
+scikit-image = "^0.19.3"
+scipy = "^1.9.3"
+PyQt6-Charts = "^6.4.0"
+pandas = "^1.5.2"
+scikit-learn = "^1.2.0"
+pre-commit = "^3.2.1"
+
+
+[tool.poetry.group.dev.dependencies]
+black = {version = "^23.1a1", allow-prereleases = true}
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
