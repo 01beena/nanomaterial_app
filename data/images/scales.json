@@ -1,0 +1,15 @@
+{
+    "AuNP_50nm_001.jpg": ["500", "nanoparticles"],
+    "AuNP_50nm_002.jpg": ["500", "nanoparticles"],
+    "AuNR_A800nm_001.jpg": ["50", "nanorods"],
+    "AuNP_20nm_001.jpg": ["100", "nanoparticles"],
+    "AuNP_80nm_001.jpg": ["100", "nanoparticles"],
+    "AuNP_40nm_003.jpg": ["50", "nanoparticles"],
+    "AuNR_A800nm_002.jpg": ["50", "nanorods"],
+    "80nmAuNP_010.jpg": ["100", "nanoparticles"],
+    "A800AuNR_008.jpg": ["50", "nanorods"],
+    "AuNP20nm_002.jpg": ["200", "nanoparticles"],
+    "AuNP50nm_003.jpg": ["200", "nanoparticles"],
+    "AuNP80nm_002.jpg": ["500", "nanoparticles"],
+    "A800AuNR_004.jpg": ["50", "nanorods"]
+}
